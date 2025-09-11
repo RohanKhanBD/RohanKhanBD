@@ -1,3 +1,5 @@
 Hi my name is Rohan Khan.
 
-I want to learn how to code and how ai works 😊.
+I am a 16 year old teen for Bangladesh.
+
+**I want to learn how to code and how ai works 😊.**
