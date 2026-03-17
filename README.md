@@ -1,5 +1,11 @@
-Hi my name is Rohan Khan.
+# Hi, I'm Rohan Khan 👋
+17 y/o ML enthusiast from Bangladesh. I build things from scratch to understand how they work.
 
-I am a 17 year old teen for Bangladesh.
+### Check out my pinned repos — I build LLMs and research ML architectures from scratch.
 
-**I want to learn how to code and how ai works 😊.**
+## Tech stack
+`Python` `PyTorch`
+
+## Currently
+HSC student in Bangladesh. Learning by building.
+Interested in LLM architecture, training efficiency, and ML research.
